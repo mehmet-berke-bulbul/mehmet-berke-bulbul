@@ -1,4 +1,4 @@
-```md
+md
 <h1 align="center">Hi, I'm Mehmet Berke Bülbül 👋</h1>
 
 <p align="center">
@@ -87,4 +87,4 @@ An intelligent tracking system that detects and follows objects using computer v
 <p align="center">
   <i>Building systems where electronics, software and intelligence meet.</i>
 </p>
-```
+
